@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      First Web Page
+    </title>
+  </head>
+
+  <body>
+    <h1>
+      <center>
+	Piscine Web
+      </center>
+    </h1>
+    <img src = mer.jpeg>
+    <img src = vague1.jpeg>
+  </body>
+</html>
+
+  

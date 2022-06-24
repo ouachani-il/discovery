@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      First Web Page
+    </title>
+  </head>
+
+  <body>
+    <h1>
+      <center>
+	Piscine Web
+      </center>
+    </h1>
+    <a href = "https://www.youtube.com/watch?v=INscMGmhmX4"><img src = "../ex02/vague1.jpeg"></a>
+    <img src = "../ex02/mer.jpeg">
+    
+  </body>
+</html>
+
+  
